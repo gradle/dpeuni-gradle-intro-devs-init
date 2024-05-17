@@ -121,3 +121,8 @@ drwxr-xr-x  4 adayal  staff   128 May 12 06:38 app
 <p align="center">
 <img width="60%" height="60%" src="https://user-images.githubusercontent.com/120980/174327548-d03ad27f-32c7-4e44-a111-04de4cc21fa3.png">
 </p>
+
+---
+## Solution Reference
+
+If you get stuck you can refer to the `solution` branch of this repository.
