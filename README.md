@@ -61,7 +61,7 @@ Enter selection (default: Java) [1..6]
 
 Enter target Java version (min: 7, default: 21): 11
 
-Project name (default: dpeuni-gradle-remote-caching): 
+Project name (default: lab): 
 
 Select application structure:
   1: Single application project
